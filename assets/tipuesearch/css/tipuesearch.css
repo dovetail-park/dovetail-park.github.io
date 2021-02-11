@@ -51,15 +51,15 @@ http://www.tipue.com/search
 }
 .tipue_search_icon
 {
-     width: 20px;
-     height: 20px;
+     width: 19px;
+     height: 19px;
      margin-bottom: 1rem;
 }
 .tipue_search_left
 {
      float: left;
      padding: 10px 5px 0 0;
-     color: #F0F1F2;
+     color: #170247;
      max-height: 20px;
 }
 .tipue_search_right
