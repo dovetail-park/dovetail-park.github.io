@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: 1학년
-slug: 1학년
-category: class
+title: VBA
+slug: vba
+category: 정보기술
 menu: false
 order: 1
 ---
