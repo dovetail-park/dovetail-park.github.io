@@ -13,10 +13,8 @@ order: 1
 ## 지도교사
 ---
 <center>
-<span style=
-"font-size:170%;
-font-weight:bold">
-김재중 &nbsp; 박상현
+<span style="font-size:170%;font-weight:bold">
+박상현
 </span>
 </center>
 <center>MAJOR : ELECTRICAL ENGINEERING</center>
